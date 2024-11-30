@@ -5,3 +5,29 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #383969;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45vh;
+}
+
+.main-heading{
+    font-family: 'Poppins', sans-serif;
+}
+
+.label {
+    font-family: 'Noto sans', sans-serif;
+    font-size: 2rem;
+}
+
+.number-input {
+    min-height: 2rem;
+    text-align: center;
+    
+}
