@@ -19,15 +19,17 @@ body {
 
 .main-heading{
     font-family: 'Poppins', sans-serif;
+    color: #f5f5f5;
 }
 
 .label {
     font-family: 'Noto sans', sans-serif;
     font-size: 2rem;
+    color: #f5f5f5;
 }
 
 .number-input {
     min-height: 2rem;
     text-align: center;
-    
+    font-size: 1.5rem;
 }
